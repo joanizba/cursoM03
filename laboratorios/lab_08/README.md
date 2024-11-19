@@ -1,5 +1,6 @@
-![uoc_logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Logotipo_UOC.svg/480px-Logotipo_UOC.svg.png)
-
+![ifp_logo](
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZaS7gErfP2ddsie5E0NJuLGLQcNKkEVef2w&s
+)
 
 # Laboratorio | Pandas concat, unión (join) y fusión (merge)
 
